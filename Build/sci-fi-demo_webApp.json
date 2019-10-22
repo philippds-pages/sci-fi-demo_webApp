@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "sci-fi-demo_unity",
+"productVersion": "0.1",
+"dataUrl": "sci-fi-demo_webApp.data.unityweb",
+"wasmCodeUrl": "sci-fi-demo_webApp.wasm.code.unityweb",
+"wasmFrameworkUrl": "sci-fi-demo_webApp.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.9f1"
+}
